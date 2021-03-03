@@ -47,3 +47,21 @@ b.  Pilot study with 2 tasks: detection and classfn. 2AFC observer picks which i
 3. a. Use scientific computer to access virutal models from g-drive, onto network <br>
 3. b. Need to visualize/display images of masses in phantom <br>
 3. c. See if CAD gives higher scores for spiculated, could serve as evidence for features we took. Even if CAD doesn't distinguish, can do observer study form bases for classf'n task <br>
+
+
+# Week of 2/03/2021
+Updates:
+
+## 1.	Admin
+  a.	GitHub for agenda, images, phantoms <br>
+  b.	Project timeline, replacement <br>
+
+## 2.	Phantom printing
+  a.	Epson printer: Print with KI <br>
+  b.	Roland printer: Use Tyrion purple <br>
+  c.	Buy empty refillable cartridge <br>
+
+## 3.	Virtual Lesion pipeline
+  a.	Questions on robustness of CAD program - VICTRE project <br>
+  b.	Mass detection/score varies with background <br>
+  c.	Worked with Kenny on fixing bounding box size; numerous issues <br>

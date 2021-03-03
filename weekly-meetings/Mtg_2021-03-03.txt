@@ -6,6 +6,9 @@ Updates:
 a.	Epson printer: Print with KI - successful with grayscale and RGB; Check that the I0 is not changing from shot to shot. Should be the same
 b.	Roland printer: Use Tyrion purple - mixed with yellow eco-sol ink
 
+To Do:
+If tyrian purple not soluble, consider using regular ink in Roland Printer
+
 2. Virtual Lesion pipeline
 a.	Mass classes: spiculated and lobular
 b.	Visualize/display images of masses in phantom

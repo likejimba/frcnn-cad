@@ -1,5 +1,5 @@
 # Week of 3/03/2021
-Updates:
+Updates: KI test swatches x-rayed again, shows consistent signal; Tyrian purple shows signal; CAD shows high malignancy score for spiculated masses
 
 ## 1. Phantom printing
 a.	Epson printer: Print with KI - successful with grayscale and RGB; Check that the I0 is not changing from shot to shot. Should be the same<br>
@@ -23,8 +23,7 @@ d.  If fewer than ~5 specks in cluster, may be ignored. Important to distinguish
 
 
 # Week of 2/22/2021
-Updates:
-
+Updates: KI test swatches printed; tyrian purple and ink ordered, new MC templates made with fixed speck density, equal ROI spacing of 35 mm
 
 ## 1. Admin
 a.	GitHub for agenda, images, phantoms <br>
@@ -50,7 +49,7 @@ b.  Pilot study with 2 tasks: detection and classfn. 2AFC observer picks which i
 
 
 # Week of 2/03/2021
-Updates:
+Updates: github repositories made for projects, data, meeting notes
 
 ## 1.	Admin
   a.	GitHub for agenda, images, phantoms <br>

@@ -16,7 +16,7 @@ c.  To increase difficulty, maybe add PMMA on top of phantom to increase noise, 
 d.  If fewer than ~5 specks in cluster, may be ignored. Important to distinguish number of specks in cluster then <br>
 
 ### To Do:
-1b. If tyrian purple not soluble, consider using regular ink in Roland Printer
+1b. If tyrian purple not soluble, consider using regular ink in Roland Printer <br>
 2a. Look at lobular results, using same density of 1.56 Compare difference in average CAD scores. For pilot study, use default density of 1.06, to make it difficult <br>
 
 

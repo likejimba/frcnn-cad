@@ -4,8 +4,8 @@ Updates: KI printing with NaBr; alternative bromium/indigo dyes found; CAD malig
 ## 1. Phantom printing
 a.	Epson printer: Print with KI successful, but streaky. Many head cleanings have not fixed it. Initializing new printer <br>
 b.  Will insert spiculated mass #9 into NaBr hetero dense phantom and vary print params: <br>
-        - Sizes 6, 7, 8 mm <br>
-        - Ink density 100%, 90%, 80% <br>
+        -     Sizes 6, 7, 8 mm <br>
+        -     Ink density 100%, 90%, 80% <br>
 c.	Roland printer: Tyrion purple causes sediment. Explore additional pigment dyes for DEG diethyl ether inks <br>
 
 ## 2. Virtual Lesion pipeline

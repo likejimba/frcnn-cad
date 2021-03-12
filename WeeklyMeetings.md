@@ -1,3 +1,26 @@
+# Meeting of 3/12/2021
+Updates: KI printing with NaBr; alternative bromium/indigo dyes found; CAD malignancy scales with lesion density
+
+## 1. Phantom printing
+a.	Epson printer: Print with KI successful, but streaky. Many head cleanings have not fixed it. Initializing new printer <br>
+b.  Will insert spiculated mass #9 into NaBr hetero dense phantom and vary print params: <br>
+      - Sizes 6, 7, 8 mm <br>
+      - Ink density 100%, 90%, 80% <br>
+c.	Roland printer: Tyrion purple causes sediment. Explore additional pigment dyes for DEG diethyl ether inks <br>
+
+## 2. Virtual Lesion pipeline
+a.	Mass classes: spiculated and lobular @ 1.56, 1.26, 1.06 mg/cc density <br>
+b.	High separation between spiculated and lobular classes. Will serve as baseline and justification for mass selection for printing <br>
+
+## 3. Observer Study
+a.  Additional metalic stickers ordered, checked in on PurchD status <br>
+b.  Independently ordered 3M tape sheets, arrived. Will use next time in lab
+
+### To Do:
+1.  <br>
+2.  <br>
+
+
 # Week of 3/03/2021
 Updates: KI test swatches x-rayed again, shows consistent signal; Tyrian purple shows signal; CAD shows high malignancy score for spiculated masses
 

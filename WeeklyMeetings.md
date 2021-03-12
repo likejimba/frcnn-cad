@@ -10,7 +10,7 @@ c.	Roland printer: Tyrion purple causes sediment. Explore additional pigment dye
 
 ## 2. Virtual Lesion pipeline
 a.	Mass classes: spiculated and lobular @ 1.56, 1.26, 1.06 mg/cc density <br>
-b.    Server downtime caused delays. Getting MC-GPU results for 4 new lob masses @ 1.26 mg/cc, Spiculated masses 9, 10 @ 1.26 mg/cc
+b.    Server downtime caused delays. Getting MC-GPU results for 4 new lob masses @ 1.26 mg/cc, Spiculated masses 9, 10 @ 1.26 mg/cc <br>
 c.	High separation between spiculated and lobular classes. Will serve as baseline and justification for mass selection for printing <br>
 
 ## 3. Observer Study

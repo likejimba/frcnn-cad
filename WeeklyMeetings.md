@@ -4,13 +4,14 @@ Updates: KI printing with NaBr; alternative bromium/indigo dyes found; CAD malig
 ## 1. Phantom printing
 a.	Epson printer: Print with KI successful, but streaky. Many head cleanings have not fixed it. Initializing new printer <br>
 b.  Will insert spiculated mass #9 into NaBr hetero dense phantom and vary print params: <br>
-      - Sizes 6, 7, 8 mm <br>
-      - Ink density 100%, 90%, 80% <br>
+        - Sizes 6, 7, 8 mm <br>
+        - Ink density 100%, 90%, 80% <br>
 c.	Roland printer: Tyrion purple causes sediment. Explore additional pigment dyes for DEG diethyl ether inks <br>
 
 ## 2. Virtual Lesion pipeline
 a.	Mass classes: spiculated and lobular @ 1.56, 1.26, 1.06 mg/cc density <br>
-b.	High separation between spiculated and lobular classes. Will serve as baseline and justification for mass selection for printing <br>
+b.    Server downtime caused delays. Getting MC-GPU results for 4 new lob masses @ 1.26 mg/cc, Spiculated masses 9, 10 @ 1.26 mg/cc
+c.	High separation between spiculated and lobular classes. Will serve as baseline and justification for mass selection for printing <br>
 
 ## 3. Observer Study
 a.  Additional metalic stickers ordered, checked in on PurchD status <br>

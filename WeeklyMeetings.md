@@ -6,6 +6,7 @@ a.	Epson printer: Print with KI successful, but streaky. Many head cleanings hav
 b.  Will insert spiculated mass #9 into NaBr hetero dense phantom and vary print params: <br>
         -     Sizes 6, 7, 8 mm <br>
         -     Ink density 100%, 90%, 80% <br>
+    Ultimate KI concentration/density/attenuation will depend on how visible the spicules are, so we should optimize printing for spiculated masses first, then print lobular       masses <br>
 c.	Roland printer: Tyrion purple causes sediment. Explore additional pigment dyes for DEG diethyl ether inks <br>
 
 ## 2. Virtual Lesion pipeline
@@ -20,6 +21,7 @@ b.  Independently ordered 3M tape sheets, arrived. Will use next time in lab
 ### To Do:
 1.  <br>
 2.  <br>
+3.  <br>
 
 
 # Week of 3/03/2021

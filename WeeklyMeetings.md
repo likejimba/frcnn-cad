@@ -19,9 +19,13 @@ a.  Additional metalic stickers ordered, checked in on PurchD status <br>
 b.  Independently ordered 3M tape sheets, arrived. Will use next time in lab
 
 ### To Do:
-1.  <br>
-2.  <br>
-3.  <br>
+1.c. Test DEG diethyl ether ink solubility with a few more inks before moving to inkjet attempts. If they both fail, move on. New inks found and selected based on safety, number of bromine attoms, and price per gram. Order new bromine dye inks: <br>
+ - ciba blue <br>
+ - VAT orange 1 <br>
+ - 5,7-Dibromo-1-indanone <br>
+ - 4-Bromoindole   <br>
+2. Do pilot study with MC-GPU mass data @1.26 mg/cc, comparing lobular vs spiculated discrimination <br>
+3. Image calc templates in NaBr printed phantom. Do pilot study for discrimination in 10 mm vs 20 mm cluster sizes. <br>
 
 
 # Week of 3/03/2021

@@ -1,3 +1,21 @@
+# Meeting of 3/24/2021
+Updates: KI printing with NaBr; alternative bromium/indigo dyes found; CAD malignancy scales with lesion density
+
+## 1. Phantom printing
+a.	Epson printer: Print with KI successful. Initialized new printer <br>
+b.  Inserted spiculated mass #9 into NaBr hetero dense phantom and vary print params: <br>
+        -     Sizes 6, 7, 8 mm <br>
+        -     Ink density 100%, 90%, 80% <br>
+
+## 2. Virtual Lesion pipeline
+a.	Mass classes: spiculated and lobular @1.26, 1.06 mg/cc density <br>
+c.	High separation between spiculated and lobular classes. Results on github. <br>
+
+## 3. Observer Study
+a.  Extracting ROIs for MCs and masses <br>
+
+## To do:
+
 # Meeting of 3/12/2021
 Updates: KI printing with NaBr; alternative bromium/indigo dyes found; CAD malignancy scales with lesion density
 

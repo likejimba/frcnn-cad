@@ -9,12 +9,13 @@ b.  Inserted spiculated mass #9 into NaBr hetero dense phantom and vary print pa
 
 ## 2. Virtual Lesion pipeline
 a.	Mass classes: spiculated and lobular @1.26, 1.06 mg/cc density <br>
-c.	High separation between spiculated and lobular classes. Results on github. <br>
+b.	High separation between spiculated and lobular classes. Results on github. <br>
 
 ## 3. Observer Study
 a.  Extracting ROIs for MCs and masses <br>
 
 ## To do:
+1. SOP: Do write up for Foursquares, how to set up, prep images for each window.
 
 # Meeting of 3/12/2021
 Updates: KI printing with NaBr; alternative bromium/indigo dyes found; CAD malignancy scales with lesion density

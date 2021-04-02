@@ -1,4 +1,56 @@
 # Meeting of 3/24/2021
+Updates: KI printing with NaBr; prepping calcs and MC-GPU mass for 2AFC
+
+## 1. Phantom printing
+a.  Inserted spiculated mass #9 into NaBr hetero dense phantom and vary print params: <br>
+        -     Sizes 6, 7, 8 mm <br>
+        -     Ink density 100%, 90%, 80% <br>
+b. Ordered drying rack
+
+## 2. Virtual Lesion pipeline
+a.  High separation between spiculated and lobular classes. Results on github. <br>
+
+## 3. Observer Study
+a.  Converting ROIs for 2AFC Study - tiff to DICOM
+b. Masses from MC-GPU, Calcs from Hologic system
+
+## 4. Admin
+a. Uploading guides and SOPs
+
+## To do:
+1. 
+
+# Meeting of 3/12/2021
+Updates: KI printing with NaBr; alternative bromium/indigo dyes found; CAD malignancy scales with lesion density
+
+## 1. Phantom printing
+a.	Epson printer: Print with KI successful, but streaky. Many head cleanings have not fixed it. Initializing new printer <br>
+b.  Will insert spiculated mass #9 into NaBr hetero dense phantom and vary print params: <br>
+        -     Sizes 6, 7, 8 mm <br>
+        -     Ink density 100%, 90%, 80% <br>
+    Ultimate KI concentration/density/attenuation will depend on how visible the spicules are, so we should optimize printing for spiculated masses first, then print lobular       masses <br>
+c.	Roland printer: Tyrion purple causes sediment. Explore additional pigment dyes for DEG diethyl ether inks <br>
+
+## 2. Virtual Lesion pipeline
+a.	Mass classes: spiculated and lobular @ 1.56, 1.26, 1.06 mg/cc density <br>
+b.    Server downtime caused delays. Getting MC-GPU results for 4 new lob masses @ 1.26 mg/cc, Spiculated masses 9, 10 @ 1.26 mg/cc <br>
+c.	High separation between spiculated and lobular classes. Will serve as baseline and justification for mass selection for printing <br>
+
+## 3. Observer Study
+a.  Additional metalic stickers ordered, checked in on PurchD status <br>
+b.  Independently ordered 3M tape sheets, arrived. Will use next time in lab
+
+### To Do:
+1.c. Test DEG diethyl ether ink solubility with a few more inks before moving to inkjet attempts. If they both fail, move on. New inks found and selected based on safety, number of bromine attoms, and price per gram. Order new bromine dye inks: <br>
+ - ciba blue <br>
+ - VAT orange 1 <br>
+ - 5,7-Dibromo-1-indanone <br>
+ - 4-Bromoindole   <br>
+2. Do pilot study with MC-GPU mass data @1.26 mg/cc, comparing lobular vs spiculated discrimination <br>
+3. Image calc templates in NaBr printed phantom. Do pilot study for discrimination in 10 mm vs 20 mm cluster sizes. <br>
+4. 
+
+# Meeting of 3/24/2021
 Updates: KI printing with NaBr; alternative bromium/indigo dyes found; CAD malignancy scales with lesion density
 
 ## 1. Phantom printing

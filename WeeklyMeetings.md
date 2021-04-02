@@ -1,4 +1,4 @@
-# Meeting of 3/24/2021
+# Meeting of 4/2/2021
 Updates: KI printing with NaBr; prepping calcs and MC-GPU mass for 2AFC
 
 ## 1. Phantom printing

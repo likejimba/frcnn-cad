@@ -1,3 +1,23 @@
+# Meeting of 4/7/2021
+Updates: KI printing with NaBr; prepping calcs and MC-GPU mass for 2AFC
+
+## 1. Phantom printing
+a.  Issues with new printer: streaking, ink not coming through
+b. 
+
+## 2. Observer Study
+a.  Converting ROIs for 2AFC Study - tiff to DICOM
+b.  Masses from MC-GPU: https://github.com/likejimba/PhantomPrinting
+
+## 3. Admin
+a. Uploading guides and SOPs
+        i. Reader Study guide
+        ii. MC Templates
+        iii. Github repo
+
+## To do:
+
+
 # Meeting of 4/2/2021
 Updates: KI printing with NaBr; prepping calcs and MC-GPU mass for 2AFC
 

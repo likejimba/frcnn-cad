@@ -1,3 +1,26 @@
+# Meeting of 4/21/2021
+Updates: 2AFC underway; New MC templates made with 150-180um, 180-212um, and 212-250 um specks
+
+## 1. Phantom printing
+a.  Issues with 3620 (old) and 7710 (new) printers<br>
+b. 3620 printer continuing to streak for NaBr; historically this has been the most reliable printer<br>
+c. 7710 will not print NaBr at all. Trying to clear channels with multiple head cleanings<br>
+
+## 2. Observer Study
+a.  MC 2AFC pilot study completd by Nick, Lynda. Awaiting results from Steve. Will enroll Andrei this week. <br>
+b.  Mass 2AFC needs to be reshuffled. Some images have identical backgrounds.<br>
+c. Images of MC templates uploaded to repo: https://github.com/likejimba/PhantomPrinting/tree/main/microcalcs
+
+## 3. Admin
+a. Uploading guides and SOPs <br>
+b. ACR paper with Aldo edits<br>
+c. Order parchment, vinyl paper 
+
+
+## To do:
+
+
+<br><br>
 # Meeting of 4/7/2021
 Updates: KI printing with NaBr; prepping calcs and MC-GPU mass for 2AFC
 
